@@ -1,0 +1,14 @@
+********************************************************************
+* Building dcrack                                                  *
+*                                                                  *
+* 1. Navigate to the src/ directory:			cd src     *
+*                                                                  *
+* 2. Clear any existing object files:			make clean *
+*                                                                  *
+* 3. Build dcrack via the "make" command:		make all   *
+*                                                                  *
+* 4. The executable will be built in the                           *
+*    root directory (the directory that                            *
+*    contains the README file).                                    *
+*                                                                  *
+********************************************************************
