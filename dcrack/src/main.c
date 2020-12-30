@@ -3,7 +3,7 @@
  * 	   V1.0	30.12.2020
  **/
 
-// TODO: GIve user option to save generations for later use as wordlists
+// TODO: Give user option to save generations for later use as wordlists
 // 	 Parallelize dict_attack and bf_attack functions
 
 #include <stdio.h>
